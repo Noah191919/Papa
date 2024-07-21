@@ -9955,6 +9955,14 @@ img {
     width:300px; /* pour visualiser le passage a la ligne */
   }
 
+  @media (max-width: 475px) {
+
+    .logo_img{
+      text-align: center;
+    }
+
+  }
+
 
   
 
