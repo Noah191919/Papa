@@ -9912,3 +9912,7 @@ img {
     color: black;
     font-weight: bold;
   }
+
+  .card{
+    height: 300px;
+  }
